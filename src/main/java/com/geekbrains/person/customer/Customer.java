@@ -39,6 +39,7 @@ public class Customer extends Person {
 //                    if (isBought) {
 //                        break;
 //                    }
+
                 }
             }
         }
